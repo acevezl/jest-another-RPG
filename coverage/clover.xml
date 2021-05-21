@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1621634383524" clover="3.2.0">
-  <project timestamp="1621634383543" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1" elements="7" coveredelements="6" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+<coverage generated="1621640159303" clover="3.2.0">
+  <project timestamp="1621640159303" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="7" coveredconditionals="5" methods="4" coveredmethods="4" elements="26" coveredelements="24" complexity="0" loc="15" ncloc="15" packages="1" files="2" classes="2"/>
     <file name="Player.js" path="/Users/arnaut/UCB-bootcamp/jest-another-RPG/lib/Player.js">
-      <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="11" coveredstatements="11" conditionals="3" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="10" count="3" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+    <file name="Potion.js" path="/Users/arnaut/UCB-bootcamp/jest-another-RPG/lib/Potion.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
+      <line num="3" count="1" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="9" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
